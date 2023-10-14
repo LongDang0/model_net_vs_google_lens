@@ -1,0 +1,39 @@
+.test_omage_and_result{
+ background-color: grey;
+ padding: 30px;
+ border-radius: 20px;
+ margin-top: 50px;
+ box-shadow: 5px 5px 18px grey;
+
+}
+
+#heading{
+    color:red; 
+    text-align: center;
+}
+
+#lens{
+    text-align: center;
+}
+
+#vs{
+    color: blue;
+}
+
+#mobilenet{
+    background-color: slateblue;
+    color: azure;
+    border: 0.1cm;
+    border-radius: 3%;
+
+}
+
+#test{
+    color: azure;
+}
+
+.footer{
+   text-shadow: 1cm;
+   color: red;
+}
+
